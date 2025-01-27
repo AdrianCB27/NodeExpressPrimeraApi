@@ -15,9 +15,9 @@ Es una base simple, pero funcional, para aprender los fundamentos del desarrollo
 
 El servidor estará disponible en `http://localhost:3001` y permitirá interactuar con los siguientes endpoints:
 
-- **GET http://localhost:3000**: Permite obtener datos desde la API.
-- **POST http://localhost:3000**: Permite enviar nuevos datos.
-- **DELETE http://localhost:3000**: Permite eliminar datos existentes.
+- **GET http://localhost:3001**: Permite obtener datos desde la API.
+- **POST http://localhost:3001**: Permite enviar nuevos datos.
+- **DELETE http://localhost:3001**: Permite eliminar datos existentes.
 
 ## 🔧 Tecnologías utilizadas
 
